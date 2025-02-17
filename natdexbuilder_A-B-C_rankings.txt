@@ -8,28 +8,28 @@
 "ababo","brattler","breezi","cawdet","cupra","dorsoil","embirch","fawnifer","floatoy","justyke","miasmite","monohm","mumbao","necturine","nohface","pluffle","privatyke","protowatt","rebble","saharascal","scratchet","smogecko","snugglow","solotl","swirlpool","syclar","volkritter","voodoll",
 
 ["header","AG"],
-"calyrexshadow","calyrexshadow","gengarmega","koraidon","miraidon","rayquazamega","xerneas",
+"calyrexshadow","gengarmega","koraidon","miraidon","rayquazamega","xerneas",
 
-["header","Uber"],
-"alakazammega","alakazammega","annihilape","arceus","arceusbug","arceusdark","arceusdragon","arceuselectric","arceusfairy","arceusfighting","arceusfire","arceusflying","arceusghost","arceusgrass","arceusground","arceusice","arceuspoison","arceuspsychic","arceusrock","arceussteel","arceuswater","baxcalibur","blastoisemega","blazikenmega","calyrexice","chienpao","chiyu","darkrai","darmanitangalar","deoxys","deoxysattack","deoxysspeed","dialga","dialgaorigin","dracovish","espathra","eternatus","fluttermane","genesect","genesectburn","genesectchill","genesectdouse","genesectshock","giratina","giratinaorigin","gougingfire","groudon","groudonprimal","hooh","ironbundle","kangaskhanmega","kyogre","kyogreprimal","kyuremblack","kyuremwhite","landorus","lucariomega","lugia","lunala","magearna","magearnaoriginal","marshadow","metagrossmega","mewtwo","mewtwomegax","mewtwomegay","naganadel","necrozmadawnwings","necrozmaduskmane","necrozmaultra","ogerponhearthflame","palafin","palafinhero","palkia","palkiaorigin","pheromosa","rayquaza","reshiram","salamencemega","shayminsky","sneasler","solgaleo","spectrier","terapagosstellar","ursalunabloodmoon","urshifu","walkingwake","yveltal","zacian","zaciancrowned","zamazentacrowned","zekrom","zygarde","zygardecomplete",
+["header","Uber"]
+,"alakazammega","annihilape","arceus","arceusbug","arceusdark","arceusdragon","arceuselectric","arceusfairy","arceusfighting","arceusfire","arceusflying","arceusghost","arceusgrass","arceusground","arceusice","arceuspoison","arceuspsychic","arceusrock","arceussteel","arceuswater","baxcalibur","blastoisemega","blazikenmega","calyrexice","chienpao","chiyu","darkrai","darmanitangalar","deoxys","deoxysattack","deoxysspeed","dialga","dialgaorigin","dracovish","espathra","eternatus","fluttermane","genesect","genesectburn","genesectchill","genesectdouse","genesectshock","giratina","giratinaorigin","gougingfire","groudon","groudonprimal","hooh","ironbundle","kangaskhanmega","kyogre","kyogreprimal","kyuremblack","kyuremwhite","landorus","lucariomega","lugia","lunala","magearna","magearnaoriginal","marshadow","metagrossmega","mewtwo","mewtwomegax","mewtwomegay","naganadel","necrozmadawnwings","necrozmaduskmane","necrozmaultra","ogerponhearthflame","palafin","palafinhero","palkia","palkiaorigin","pheromosa","rayquaza","reshiram","salamencemega","shayminsky","sneasler","solgaleo","spectrier","terapagosstellar","ursalunabloodmoon","urshifu","walkingwake","yveltal","zacian","zaciancrowned","zamazentacrowned","zekrom","zygarde","zygardecomplete",
 
 ["header","OU"],
-"alomomola","alomomola","charizardmegay","clodsire","corviknight","dianciemega","dragapult","dragonite","ferrothorn","garchomp","gholdengo","glimmora","gliscor","greattusk","hatterene","heatran","ironcrown","irontreads","ironvaliant","kartana","kingambit","kyurem","landorustherian","lopunnymega","melmetal","moltres","ogerponwellspring","pelipper","ragingbolt","rillaboom","roaringmoon","samurotthisui","scizormega","slowkinggalar","tapukoko","tapulele","terapagos","terapagosterastal","toxapex","tyranitarmega","urshifurapidstrike","volcarona","zamazenta","zapdos",
+"alomomola","charizardmegay","clodsire","corviknight","dianciemega","dragapult","dragonite","ferrothorn","garchomp","gholdengo","glimmora","gliscor","greattusk","hatterene","heatran","ironcrown","irontreads","ironvaliant","kartana","kingambit","kyurem","landorustherian","lopunnymega","melmetal","moltres","ogerponwellspring","pelipper","ragingbolt","rillaboom","samurotthisui","scizormega","slowkinggalar","tapukoko","tapulele","terapagos","terapagosterastal","toxapex","tyranitarmega","urshifurapidstrike","volcarona","zamazenta","zapdos",
 
 ["header","OU by technicality"],
-"garchompmega",
+"garchompmega","roaringmoon",
 
 ["header","UUBL"],
 "blaziken","ceruledge","charizardmegax","cinderace","dondozo","garganacl","greninja","greninjabond","gyarados","gyaradosmega","hoopaunbound","ironhands","kommoo","latios","latiosmega","manaphy","mawilemega","medichammega","meowscarada","ogerponcornerstone","pinsirmega","thundurustherian","tornadustherian","weavile","xurkitree","zapdosgalar",
 
 ["header","UU"],
-"aegislash","aegislash","aerodactylmega","archaludon","azumarill","banettemega","beedrillmega","bisharp","celesteela","chansey","clefable","enamorus","excadrill","gallademega","gardevoirmega","golisopod","grafaiai","grimmsnarl","heracrossmega","hippowdon","hydrapple","hydreigon","ironboulder","ironmoth","keldeo","keldeoresolute","latiasmega","magnezone","mamoswine","mienshao","quaquaval","regieleki","rotomwash","scizor","serperior","skarmory","skeledirge","slowbro","talonflame","tapufini","tinglu","tyranitar","ursaluna","venusaurmega","victini","zeraora",
+"aegislash","aerodactylmega","archaludon","azumarill","banettemega","beedrillmega","bisharp","celesteela","chansey","clefable","enamorus","excadrill","gallademega","gardevoirmega","golisopod","grafaiai","grimmsnarl","heracrossmega","hippowdon","hydrapple","hydreigon","ironboulder","ironmoth","keldeo","keldeoresolute","latiasmega","magnezone","mamoswine","mienshao","quaquaval","regieleki","rotomwash","scizor","serperior","skarmory","skeledirge","slowbro","talonflame","tapufini","tinglu","tyranitar","ursaluna","venusaurmega","victini","zeraora",
 
 ["header","RUBL"],
 "alakazam","altariamega","blacephalon","buzzwole","conkeldurr","gengar","hawlucha","haxorus","ironleaves","jirachi","lilliganthisui","mew","moltresgalar","pecharunt","porygonz","sableyemega","salamence","scolipede","terrakion","zoroarkhisui",
 
 ["header","RU S-A Ranks"],
-"aggronmega","aggronmega","amoonguss","basculegionf","blissey","cobalion","crobat","cyclizar","diggersby","gastrodon","gligar","krookodile","latias","manectricmega","munkidori","nidoking","okidogi","pidgeotmega","primarina","sceptilemega","sharpedomega","slitherwing","slowking","steelixmega","swampert","tangrowth","tapubulu","thundurus","tinkaton","togekiss","volcanion","zarude",
+"aggronmega","amoonguss","basculegionf","blissey","cobalion","crobat","cyclizar","diggersby","gastrodon","gligar","krookodile","latias","manectricmega","munkidori","nidoking","okidogi","pidgeotmega","primarina","sceptilemega","sharpedomega","slitherwing","slowking","steelixmega","swampert","tangrowth","tapubulu","thundurus","tinkaton","togekiss","volcanion","zarude",
 
 ["header","RU B Ranks"],
 "absolmega","arcaninehisui","arctozolt","empoleon","fezandipiti","houndoommega","infernape","ironjugulis","lokix","lucario","lycanrocdusk","mandibuzz","metagross","mukalola","necrozma","ogerpon","polteageist","reuniclus","rotomheat","sandyshocks","sinistcha","slowbromega","suicune","swampertmega","weezinggalar","zygarde10",
