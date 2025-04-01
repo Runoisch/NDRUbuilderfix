@@ -29,7 +29,7 @@
 "alakazam","altariamega","blacephalon","buzzwole","conkeldurr","gengar","hawlucha","haxorus","ironleaves","jirachi","lilliganthisui","mew","moltresgalar","pecharunt","porygonz","sableyemega","salamence","scolipede","terrakion","zoroarkhisui",
 
 ["header","RU"],
-"absolmega","aggronmega","amoonguss","arctozolt","basculegionf","blissey","cobalion","crobat","cyclizar","diggersby","gastrodon","gligar","ironjugulis","krookodile","latias","lokix","lucario","mandibuzz","manectricmega","nidoking","okidogi","pidgeotmega","primarina","rhyperior","rotomheat","sandyshocks","sceptilemega","sharpedomega","slitherwing","slowking","steelixmega","tangrowth","tapubulu","thundurus","tinkaton","togekiss","volcanion","weezinggalar","zarude",
+"absolmega","absolmega","aggronmega","amoonguss","arctozolt","basculegionf","blissey","cobalion","crobat","cyclizar","diggersby","gastrodon","gligar","ironjugulis","krookodile","latias","lokix","lucario","mandibuzz","manectricmega","nidoking","okidogi","pidgeotmega","primarina","rhyperior","rotomheat","sandyshocks","sceptilemega","sharpedomega","slitherwing","slowking","steelixmega","tangrowth","tapubulu","thundurus","tinkaton","togekiss","volcanion","weezinggalar","zarude",
 
 ["header","NUBL"],
 "breloom","chandelure","durant","flamigo","infernape","lycanrocdusk","necrozma","ogerpon","polteageist","staraptor","zygarde10",
